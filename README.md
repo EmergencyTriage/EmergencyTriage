@@ -1,3 +1,6 @@
+Weekly "Standup": Sundays 8pm with exceptions to holidays.
+
+
 Description of problem(s): Improve response for locating, tagging and tracking patients in mass casualty incidents
 
 Technologies/Frameworks needed: MERN stack, Google Vision AI
