@@ -1,5 +1,9 @@
 Weekly "Standup": Sundays 8pm with exceptions to holidays.
 
+Timeline:   Start implentation stage by 07.20.2021. 
+            Finish around 80% of implentation by 08.14.2021. 
+            Have a palable product by end of August. 
+            Finish prototype and debug soon after.
 
 Description of problem(s): Improve response for locating, tagging and tracking patients in mass casualty incidents
 
