@@ -18,3 +18,5 @@ Action Plan: 	Use Vision AI to pull personal data from photo of driver's license
                 Store forms in database/
                 Add search bar that filters by patient name or injury severity/
 
+Link to Figma Wireframe: https://www.figma.com/file/eLqqrGOGteBPW35jwybezY/Wireframing?node-id=0%3A1
+
