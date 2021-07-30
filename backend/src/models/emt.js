@@ -21,11 +21,14 @@ const EMTSchema = new Schema ({
     },
     /**
      * Geo location for GeoJSON format
+     * https://mongoosejs.com/docs/geojson.html reference for more info
+     * 
      */
-    // location: {
-    //     type: { type: String },
-    //     coordinates: [Number]
-    // }
+    // location: {coordinates: {
+    //   type: [Number],
+    //   required: true
+    // },
+
 });
 
 module.exports = mongoose.model("EMT", EMTSchema);
