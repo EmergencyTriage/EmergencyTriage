@@ -1,12 +1,9 @@
 // Modeling for DB
 const mongoose = require('mongoose');
-const {v4: UUIDv4} = require('uuid');
-
 const Schema = mongoose.Schema;
 
 
 const PatientSchema = new Schema ({
-    id: UUIDv4(),
     name: String,
     address: String,
     insurance: String,
@@ -17,7 +14,8 @@ const PatientSchema = new Schema ({
         type: [String],
     },
     status: {
-        type: String
+        type: String,
+        required: true
     },
     
     // Only EMT can access form to create Patient
