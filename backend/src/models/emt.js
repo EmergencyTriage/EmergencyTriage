@@ -18,7 +18,7 @@ const EMTSchema = new Schema ({
         type: Boolean,
         default: false
     },
-    patientCreation: [
+    patientsAttending: [
         {
             type: Schema.Types.ObjectId,
             ref: 'Patient'

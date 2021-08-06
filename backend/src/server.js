@@ -63,6 +63,6 @@ app.use('*', (req, res) => {
 
 // Open Server on selected Port
 app.listen(
-    PORT,
+    3000,
     () => console.info('Server listening on port ', PORT)
 );
